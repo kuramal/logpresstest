@@ -1,4 +1,4 @@
-FROM docker.io/centos 
+FROM centos 
 
 ADD echo.sh /usr/bin/echo.sh
 

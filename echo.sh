@@ -4,7 +4,7 @@ i=1
 
 while true 
 do
-	echo $i
+	echo "message:" + $i
 	let i=i+1
 	sleep 1
 done
